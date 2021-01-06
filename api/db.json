@@ -4,6 +4,11 @@
       "title": "TJ stream",
       "description": "Ca c'est un bon stream",
       "id": 1
+    },
+    {
+      "title": "SEcond stream",
+      "description": "This is a beautiful one",
+      "id": 2
     }
   ]
 }
