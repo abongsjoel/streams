@@ -14,12 +14,6 @@
       "title": "This is an idised stream",
       "description": "This stream is being refactored at this very moment",
       "id": 3
-    },
-    {
-      "title": "Me steaming component reuse",
-      "description": "This change was made by a PATCH request",
-      "userId": "108128572946860982234",
-      "id": 4
     }
   ]
 }
