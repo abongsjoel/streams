@@ -11,28 +11,10 @@
       "id": 2
     },
     {
-      "title": "My Creation",
-      "description": "This is a specail TJ creation",
-      "userId": null,
+      "title": "This is an idised stream",
+      "description": "Lol this stream is created while i am logged in",
+      "userId": "108128572946860982234",
       "id": 3
-    },
-    {
-      "title": "TJ new creation",
-      "description": "This si== is  a fantastic creation",
-      "userId": "108128572946860982234",
-      "id": 4
-    },
-    {
-      "title": "Unexpected behavior",
-      "description": "Didnt expect this",
-      "userId": "108128572946860982234",
-      "id": 5
-    },
-    {
-      "title": "Progmatic navigation",
-      "description": "I will get navigated programatically",
-      "userId": "108128572946860982234",
-      "id": 6
     }
   ]
 }
