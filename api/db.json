@@ -14,6 +14,12 @@
       "title": "This is an idised stream",
       "description": "This stream is being refactored at this very moment",
       "id": 3
+    },
+    {
+      "title": "This is a wonderful stream",
+      "description": "I like creating wonderful streams",
+      "userId": "108128572946860982234",
+      "id": 4
     }
   ]
 }
