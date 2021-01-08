@@ -28,19 +28,21 @@ The project starts by using OAuth-based authentication to enable the user to log
 ## User
 
 - Clone project into local repository
-
-- cd api
-- npm install
-- npm start
-
-- cd rtmpserver
-- npm install
-- npm start
-
-- cd client
-- npm install
-- npm start
-
+```
+cd api
+npm install
+npm start
+```
+```
+cd rtmpserver
+npm install
+npm start
+```
+```
+cd client
+npm install
+npm start
+```
 
 ## Author
 
