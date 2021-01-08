@@ -25,7 +25,7 @@ The project starts by using OAuth-based authentication to enable the user to log
 - node-media-server
 
 
-## User
+## Usage
 
 - Clone project into local repository
 ```
@@ -63,5 +63,5 @@ npm start
   if you like this project!</p>
 
 ## License
-  <p>This project is <a href="../features/LICENSE">MIT</a> licensed.</p>
+  <p>This project is <a href="../main/LICENSE">MIT</a> licensed.</p>
 
