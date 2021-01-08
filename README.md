@@ -1,6 +1,6 @@
 # Video Streaming App
 
-> In this project, I created a React application that streams videos on the users local computer
+> In this project, I created a React application that streams videos on the user's local computer
 
 ![screenshot](../main/screenshot.png)
 
