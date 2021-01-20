@@ -57,6 +57,14 @@ npm start
 
 - [Stephen Grider](https://www.udemy.com/course/react-redux/#instructor-1)
 
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/abongsjoel/streams/issues).
+
+
 ## Show your support
 <p> Give a 
   <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"></g-emoji>
